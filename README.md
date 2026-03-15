@@ -32,51 +32,6 @@ Building intelligent systems combining software, automation and AI
 
 ---
 
-# 📊 Live GitHub Metrics
-
-<p align="center">
-
-<img src="https://metrics.lecoq.io/NicolasLlanos8799?template=classic&isocalendar=1&languages=1&lines=1&activity=1&repositories=1&metadata=1&config.timezone=Europe%2FCopenhagen"/>
-
-</p>
-
----
-
-# 🧑‍💻 Coding Heatmap
-
-<p align="center">
-
-<img src="https://ghchart.rshah.org/00C2FF/NicolasLlanos8799" />
-
-</p>
-
----
-
-# 🔥 Dynamic Skill Graph
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,php,nodejs,express,postgres,mysql,redis,docker,linux,nginx,git,github,html,css"/>
-
-</p>
-
----
-
-# 🪐 3D Tech Icons
-
-<p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/>
-
-</p>
-
----
-
 # 👋 About Me
 
 I build **intelligent software systems** that combine:
@@ -135,13 +90,21 @@ My work focuses on transforming **complex operations into automated digital syst
 
 ---
 
-# ⭐ Auto Featured Repositories
+# 🌐 Connect
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasLlanos8799&repo=portfolio.v2&theme=tokyonight"/>
+<a href="https://www.linkedin.com/in/nicolas-llanos">
+<img src="https://img.shields.io/badge/LinkedIn-Nicolás_Llanos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasLlanos8799&repo=iagency&theme=tokyonight"/>
+<a href="https://www.helloiagency.com">
+<img src="https://img.shields.io/badge/Agency-Hello_iAgency-00C2FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/NicolasLlanos8799">
+<img src="https://img.shields.io/badge/GitHub-NicolasLlanos8799-111111?style=for-the-badge&logo=github"/>
+</a>
 
 </p>
 
@@ -152,13 +115,6 @@ My work focuses on transforming **complex operations into automated digital syst
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NicolasLlanos8799&color=00C2FF&style=flat-square" />
 </p>
-
----
-
-# 🔗 Connect
-
-GitHub  
-https://github.com/NicolasLlanos8799
 
 ---
 
