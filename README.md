@@ -18,65 +18,6 @@ Building intelligent systems combining software, automation and AI
 
 ---
 
-# 🧠 AI Engineer Dashboard
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NicolasLlanos8799&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasLlanos8799&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicolasLlanos8799&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 Live GitHub Metrics
-
-<p align="center">
-
-<img src="https://metrics.lecoq.io/NicolasLlanos8799?template=classic&isocalendar=1&languages=1&lines=1&activity=1&repositories=1&metadata=1&config.timezone=Europe%2FCopenhagen"/>
-
-</p>
-
----
-
-# 🧑‍💻 Coding Heatmap
-
-<p align="center">
-
-<img src="https://ghchart.rshah.org/00C2FF/NicolasLlanos8799" />
-
-</p>
-
----
-
-# 🔥 Dynamic Skill Graph
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,php,nodejs,express,postgres,mysql,redis,docker,linux,nginx,git,github,html,css"/>
-
-</p>
-
----
-
-# 🪐 3D Tech Icons
-
-<p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/>
-
-</p>
-
----
-
 # 👋 About Me
 
 I build **intelligent software systems** that combine:
@@ -99,6 +40,8 @@ My work focuses on transforming **complex operations into automated digital syst
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
 ![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php)
 ![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
 
 ---
 
@@ -116,6 +59,8 @@ My work focuses on transforming **complex operations into automated digital syst
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-111111?style=for-the-badge&logo=openai)
 ![n8n](https://img.shields.io/badge/n8n-111111?style=for-the-badge)
 ![AI Workflows](https://img.shields.io/badge/AI_Workflows-111111?style=for-the-badge)
+![LLM Systems](https://img.shields.io/badge/LLM_Systems-111111?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-111111?style=for-the-badge)
 
 ---
 
@@ -124,6 +69,38 @@ My work focuses on transforming **complex operations into automated digital syst
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql)
 ![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-111111?style=for-the-badge&logo=google-sheets)
+
+---
+
+## DevOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
+![Nginx](https://img.shields.io/badge/Nginx-111111?style=for-the-badge&logo=nginx)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=NicolasLlanos8799&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NicolasLlanos8799&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLlanos8799&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=NicolasLlanos8799&theme=tokyonight"/>
+</p>
 
 ---
 
@@ -131,6 +108,14 @@ My work focuses on transforming **complex operations into automated digital syst
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicolasLlanos8799&theme=tokyo-night" />
+</p>
+
+---
+
+# 📊 Wakatime Coding Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=NicolasLlanos8799&theme=tokyonight"/>
 </p>
 
 ---
@@ -147,6 +132,54 @@ My work focuses on transforming **complex operations into automated digital syst
 
 ---
 
+# 🤖 AI Projects Showcase
+
+### AI Automation Systems
+
+AI assistants and automation systems for businesses.
+
+Technologies:
+
+OpenAI API  
+n8n  
+automation workflows  
+API integrations  
+backend orchestration  
+
+---
+
+### Conversational AI Platforms
+
+AI systems capable of handling:
+
+customer support  
+automated workflows  
+multi-channel messaging  
+
+---
+
+### Operational Automation Platforms
+
+Automation tools designed to optimize real business operations.
+
+Examples:
+
+automated order systems  
+AI assistants for customer support  
+automation dashboards  
+
+---
+
+# 🚀 Animated Project Cards
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasLlanos8799&repo=portfolio.v2&theme=tokyonight&show_owner=true"/>
+
+</p>
+
+---
+
 # 👀 Profile Views
 
 <p align="center">
@@ -157,11 +190,22 @@ My work focuses on transforming **complex operations into automated digital syst
 
 # 🔗 Connect
 
-GitHub  
+### LinkedIn
+
+https://www.linkedin.com/in/nicolas-llanos
+
+### Agency
+
+https://www.helloiagency.com
+
+### GitHub
+
 https://github.com/NicolasLlanos8799
 
 ---
 
 <p align="center">
+
 Building intelligent systems with AI and automation
+
 </p>
