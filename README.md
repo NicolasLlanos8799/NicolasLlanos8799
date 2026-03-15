@@ -34,15 +34,23 @@ Building intelligent systems combining software, automation and AI
 
 # 👋 About Me
 
-I build **intelligent software systems** that combine:
+I build **intelligent systems that merge software, automation and AI**.
 
-- Artificial Intelligence  
-- Automation workflows  
-- APIs and backend systems  
-- Real-world business processes  
+<p>
 
-My work focuses on transforming **complex operations into automated digital systems**.
+🧠 <b>Artificial Intelligence</b><br>
+AI assistants, conversational systems and automation intelligence.
 
+⚙️ <b>Automation Systems</b><br>
+Workflow orchestration, API automation and process optimization.
+
+🔗 <b>Backend Architecture</b><br>
+Scalable APIs, integrations and system design.
+
+🏢 <b>Business Systems</b><br>
+Transforming real-world operations into digital automated platforms.
+
+</p>
 ---
 
 # 🚀 Tech Stack
