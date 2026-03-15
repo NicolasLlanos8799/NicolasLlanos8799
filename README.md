@@ -47,39 +47,96 @@ My work focuses on transforming **complex operations into automated digital syst
 
 # 🚀 Tech Stack
 
-## Languages
+## Software Engineering
 
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php)
-![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql)
+![System Architecture](https://img.shields.io/badge/System_Architecture-111111?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge)
+![Authentication](https://img.shields.io/badge/Authentication-111111?style=for-the-badge)
+![Access Control](https://img.shields.io/badge/Access_Control-111111?style=for-the-badge)
+![SQL Optimization](https://img.shields.io/badge/SQL_Optimization-111111?style=for-the-badge)
+![Technical Collaboration](https://img.shields.io/badge/Technical_Collaboration-111111?style=for-the-badge)
 
 ---
 
-## Backend & APIs
+## iOS Development
+
+![Swift](https://img.shields.io/badge/Swift-111111?style=for-the-badge&logo=swift)
+![UIKit](https://img.shields.io/badge/UIKit-111111?style=for-the-badge)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-111111?style=for-the-badge&logo=swift)
+
+---
+
+## Full-Stack Web
+
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
+
+---
+
+## Backend, APIs & Data
 
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express)
 ![REST API](https://img.shields.io/badge/REST_API-111111?style=for-the-badge)
 ![Webhooks](https://img.shields.io/badge/Webhooks-111111?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis)
+![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase)
+![Google_Sheets](https://img.shields.io/badge/Google_Sheets-111111?style=for-the-badge&logo=google-sheets)
 
 ---
 
 ## AI & Automation
 
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-111111?style=for-the-badge&logo=openai)
+![ChatGPT](https://img.shields.io/badge/ChatGPT_API-111111?style=for-the-badge&logo=openai)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-111111?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-111111?style=for-the-badge)
-![AI Workflows](https://img.shields.io/badge/AI_Workflows-111111?style=for-the-badge)
+![Automation APIs](https://img.shields.io/badge/Automation_APIs-111111?style=for-the-badge)
+![Conversational Flows](https://img.shields.io/badge/Conversational_Flows-111111?style=for-the-badge)
 
 ---
 
-## Databases
+## Firebase Tools
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis)
+![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-111111?style=for-the-badge&logo=firebase)
+![Firebase Analytics](https://img.shields.io/badge/Firebase_Analytics-111111?style=for-the-badge&logo=firebase)
+![Crashlytics](https://img.shields.io/badge/Crashlytics-111111?style=for-the-badge&logo=firebase)
 
+---
+
+## Optimization
+
+![Technical SEO](https://img.shields.io/badge/Technical_SEO-111111?style=for-the-badge)
+![Web Performance](https://img.shields.io/badge/Web_Performance-111111?style=for-the-badge)
+![UI/UX Optimization](https://img.shields.io/badge/UI_UX_Optimization-111111?style=for-the-badge)
+![Conversion Architecture](https://img.shields.io/badge/Conversion_Architecture-111111?style=for-the-badge)
+
+---
+
+## DevOps & Version Control
+
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
+![Nginx](https://img.shields.io/badge/Nginx-111111?style=for-the-badge&logo=nginx)
+
+---
+
+## Methodologies & Workflow
+
+![SCRUM](https://img.shields.io/badge/SCRUM-111111?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-111111?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-111111?style=for-the-badge&logo=jira)
+![Sprint Planning](https://img.shields.io/badge/Sprint_Planning-111111?style=for-the-badge)
+![Technical Collaboration](https://img.shields.io/badge/Technical_Collaboration-111111?style=for-the-badge)
 ---
 
 # 📈 GitHub Activity
